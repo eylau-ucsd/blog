@@ -260,7 +260,7 @@ Here's the companion HTML file, for reference:
 
 And with that, I found the flag and solved the problem!
 
-![HTML decrypter page containing the text "Flag is:" followed by the flag value found by the brute force cracking scheme.](sar-6.png)
+![HTML decrypter page containing the text "Flag is:" followed by the flag value found by the brute force cracking scheme.](/assets/sar-6.png)
 
 ## Other Solutions?
 
